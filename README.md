@@ -19,7 +19,7 @@ To run this project locally, you'll need to have Node.js and npm installed on yo
 Clone this repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/atulforfirm123/tic-tac-toe.git
 Navigate to the project directory:
 bash
 Copy code
